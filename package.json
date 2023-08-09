@@ -60,7 +60,7 @@
     "@tsconfig/svelte": "^3.0.0",
     "@types/glob": "^8.0.0",
     "@types/mocha": "^10.0.1",
-    "@types/node": "^20.4.1",
+    "@types/node": "^20.4.9",
     "@types/vscode": "^1.60.2",
     "@types/vscode-webview": "^1.57.1",
     "@vscode/debugadapter-testsupport": "1.59.0",
